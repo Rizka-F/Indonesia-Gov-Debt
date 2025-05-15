@@ -6,7 +6,7 @@
 
 
 ### Project overview
-This data analysis project aims to offer insights into the Indonesian government's debt over the past year. By exploring various aspect of the debt, I aim to identify emerging trends and develop a deeper understanding of the country's fiscal condition.
+This data analysis project seeks to provide insight into the Indonesian government's debt over the past year. By exploring various aspects of the debt, I aim to identify emerging trends and develop a deeper understanding of the country's fiscal condition.
 
 
 ### Data Sources 
