@@ -26,7 +26,7 @@ The primary dataset used for this analysis was sourced from the Indonesian Minis
 
 ### Results
 - Indonesia’s Government Debt Trends (in Trillions of IDR)
-#### Indonesia’s government debt increased by 237,8 percent over the 2014–2024 period. In 2024, the central government’s total debt reached IDR 8.812,90 trillion  increase 7,6 percent from the 2023 (IDR 8,191.20 trillion)
+#### Indonesia’s government debt increased 237,8 percent over the 2014–2024 period. In 2024, the central government’s total debt reached IDR 8.812,90 trillion  increase 7,6 percent from the 2023 (IDR 8,191.20 trillion)
 ![image](https://github.com/user-attachments/assets/66fa5e8b-7b71-4277-8cb6-e1326f44ce1b)
 
 
