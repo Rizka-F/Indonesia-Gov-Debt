@@ -40,14 +40,7 @@ The primary dataset used for this analysis was sourced from the Indonesian Minis
 ![image](https://github.com/user-attachments/assets/f58f292b-9fc8-40e4-b17b-a736ed9b6f45)
 
 
-- Ratio of Debt to revenue
-#### In 2024, the debt-to-revenue ratio reached 314 percent, significantly exceeding the IMF’s recommended safe threshold of 150 percent
-![image](https://github.com/user-attachments/assets/8a276f0c-8604-4d48-848d-845092435b59)
 
-
-- Ratio of Interest to Revenue
-#### In 2024, the interest to revenue ratio reached 17,7 percent, significantly exceeding the IMF’s recommended safe threshold of 10 percent
-![image](https://github.com/user-attachments/assets/61dde2c2-6d5c-42f0-809c-292da965d611)
 
 
 
